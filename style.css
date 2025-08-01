@@ -83,7 +83,7 @@ body {
     justify-content: center;
     padding-left: 30px;
     height: 590px;
-    width: 222px;
+    width: 280px;
     overflow: hidden;
 }
 
@@ -175,7 +175,7 @@ body {
 
 .box8 {
     background-color: hsl(256, 67%, 59%);
-    width: 580px;
+    width: 630px;
     overflow: hidden;
     display: flex;
     padding: 20px;
